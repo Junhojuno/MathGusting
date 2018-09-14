@@ -1,0 +1,2 @@
+# MathGusting
+Algorithms with math
