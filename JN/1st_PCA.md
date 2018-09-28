@@ -31,7 +31,7 @@ $Var(Xa) = \frac{1}{N} \sum_{i}^{N}(Xa - E[Xa])^2$
 $\qquad \qquad = \frac{1}{N} \sum_{i}^{N}(Xa - E[X]a)^2 \text{\tiny (여기서 E[Xa] = E[X]*a와 같다)}$
 $\qquad \qquad = \frac{1}{N} \sum_{i}^{N}(Xa)^2$
 $\qquad \qquad = \frac{1}{N} (Xa)^T(Xa) = \frac{1}{N} a^TX^TXa$
-$\qquad \qquad = a^T \frac{X^TX}{N}a = \underline \bold {a^T \sum a}$
+$\qquad \qquad = a^T \frac{X^TX}{N}a = \underline \bold {a^T \sum a} \text{\tiny (공분산행렬은 Positive Definite하고, 이 경우 미분값이 극댓값을 갖는다. So, 미분=0으로 하는 a는 극댓값의 위치!!)}$
 
 $\bold{Loss} = a^T \sum a - \lambda(\lVert a \rVert^2-1) \text{\tiny \quad a가 커지면 분산이 그냥 커진다는 이유(?)로 a를 단위벡터로 제한조건을 걸었다..(이건 좀 더 공부해야할 부분)}$
 $ {\bold{\large dL \over da}}\Longrightarrow (\footnotesize \sum + \sum^T)a - \lambda(I+I)a$
