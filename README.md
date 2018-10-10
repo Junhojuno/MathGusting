@@ -12,3 +12,6 @@ Algorithms with math
  
 > 2018.10.09(화) : 2주차
  - 주제 : SVD, LSA(Latent Semantic Analysis), pLSA(Probability Latent Semantic Analysis), LDA(Latent Dirichlet Analysis) 
+
+> 2018.10.19(금) : 3 
+ - 주제 : MLE, EM Algorithm, Binomial/Multinomial/Beta/Gamma/Dirichlet Distribution + pLSA, LDA
