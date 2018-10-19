@@ -16,3 +16,6 @@
 
 > 2018.10.19(금) : 3주차
  - 주제 : MLE, EM Algorithm, Binomial/Multinomial/Beta/Gamma/Dirichlet Distribution + pLSA, LDA
+ 
+> 2018.10.26(금) : 4주차
+ - 주제 : 선형대수~최적화 (5장 1절 ~ 6장 2절)
