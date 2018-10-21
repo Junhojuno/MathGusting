@@ -1,5 +1,6 @@
 # MathGusting
-Algorithms with math
+- Review Linear Algebra, Optimization, Probability theory
+- Implement algorithms related with these above
 
 ### TimeLine
 ---
@@ -7,5 +8,14 @@ Algorithms with math
  - 주제선정 : PCA
  - 중간발표(진행과정보고) : 19일(수)
 
-> 2018.09.21(금) : 1주차
+> 2018.09.28(금) : 1주차
  - 주제 : PCA
+ 
+> 2018.10.09(화) : 2주차
+ - 주제 : SVD, LSA(Latent Semantic Analysis), pLSA(Probability Latent Semantic Analysis), LDA(Latent Dirichlet Analysis) 
+
+> 2018.10.19(금) : 3주차
+ - 주제 : MLE, EM Algorithm, Binomial/Multinomial/Beta/Gamma/Dirichlet Distribution + pLSA, LDA
+ 
+> 2018.10.26(금) : 4주차
+ - 주제 : 선형대수 ~ 최적화 (5장 1절 ~ 6장 2절)
